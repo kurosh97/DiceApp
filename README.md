@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+
 
 # Dicee
 
@@ -24,7 +24,5 @@ this is a Las Vegas dice app. You can make the die roll at the press of a button
 * Learn about randomisation and how to generate random numbers in Swift.
 
 
-(https://www.appbrewery.co/)
 
-![End Banner](Documentation/readme-end-banner.png)
 
