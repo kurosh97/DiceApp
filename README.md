@@ -2,9 +2,9 @@
 
 # DiceApp
 
-## Our Goal
+## My Goal
 
-The objective of this introduce myself to the core programming concepts that will form the foundation of most of the apps I will build in the future. I will be practising in this app lot of important programming knowledge, while building a neat dice app.
+The objective of this is to introduce myself to the core programming concepts that will form the foundation of most of the apps I will be building in the future. I will be practising in this app a lot of important programming knowledge, while building a neat dice app.
 
 ## what's on the making
 
