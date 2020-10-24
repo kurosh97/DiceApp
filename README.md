@@ -1,6 +1,6 @@
 
 
-# Dicee
+# DiceApp
 
 ## Our Goal
 
